@@ -1,8 +1,8 @@
 # Tensura Quests API
 
 The contracts library of the Tensura RPG FTB Quests integration. It ships no
-quest content and no gameplay of its own: installing it alone changes nothing
-you can see in game.
+quest content and no gameplay of its own; alone, it changes nothing you can see
+in game.
 
 ## What it provides
 
@@ -69,3 +69,5 @@ Copyright (c) 2026 Bitwise Madness.
 ## AI disclosure
 
 Parts of this project were written with the assistance of AI coding tools.
+AI-assisted code, data and documentation ship only after human review by the
+maintainers.
